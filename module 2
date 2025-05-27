@@ -1,0 +1,106 @@
+# AI vs ML vs DL
+
+Date: May 18th–27th, 2025  
+Topic: AI vs ML vs DL (Simplilearn Full Course)  
+Video Resource: [AI vs Machine Learning vs Deep Learning | Simplilearn Full Course](https://www.youtube.com/watch?v=K1v9wP0q5IY)  
+Duration: 5 Hours
+
+
+## What I Learned
+
+This video gave me a comprehensive introduction to the **relationships**, **types**, and **applications** of Artificial Intelligence, Machine Learning, and Deep Learning.
+
+## Key Concepts
+
+### Artificial Intelligence (AI)
+- A technique that enables machines to mimic human behavior.
+- Goal: Make systems "smart" and able to reason, learn, and self-correct.
+
+### Machine Learning (ML)
+- A subset of AI that uses statistical methods to enable systems to improve from experience.
+- Relies heavily on data and algorithms.
+
+### Deep Learning (DL)
+- A subset of ML that leverages multi-layered neural networks.
+- Makes handling high-dimensional data like images, audio, and text feasible.
+
+
+## Machine Learning Types
+
+1. **Supervised Learning**
+   - Learns from labeled data.
+   - Tasks: Regression and Classification
+   - Algorithms:
+     - Linear Regression
+     - Logistic Regression
+     - Decision Trees
+     - Random Forest
+     - Naive Bayes Classifier
+     - K-Nearest Neighbors (KNN)
+     - Support Vector Machines (SVM)
+
+2. **Unsupervised Learning**
+   - Works on unlabeled data
+   - Tasks: Clustering and **Association
+   - Used in: Market basket analysis, Customer segmentation
+
+3. **Reinforcement Learning**
+   - Reward-based learning
+   - Agent learns through interaction with environment and rewards/punishments
+   - Common in robotics and game AI
+
+
+## Limitations of Machine Learning
+
+- Struggles with high-dimensional data
+- Manual feature extraction is complex
+- Performance drops when data is noisy or insufficient
+
+
+## Neural Networks & Deep Learning
+
+- Deep Learning automates **feature extraction**
+- Artificial Neurons (Perceptrons):
+  - Inputs with weights
+  - Weighted sum + activation function → Output
+- Backpropagation is the core training algorithm
+- Maximum weight is assigned to the most important inputs
+
+### Convolutional Neural Networks (CNNs)
+- Used in image recognition
+- Neurons in a layer are only connected to a local region of the previous layer
+
+### Recurrent Neural Networks (RNNs)
+- Designed for sequence data: text, speech, time series
+- Memory of previous inputs helps understand context
+
+
+## Natural Language Processing (NLP)
+
+- Subfield of AI that handles human language
+- Applications:
+  - Sentiment Analysis
+  - Chatbots
+  - Speech Recognition
+  - Machine Translation
+
+### Key NLP Concepts
+- **Tokenization**: Splitting text into smaller chunks
+- **Stemming**: Reducing words to their root form
+- **Lemmatization**: Similar to stemming but context aware
+- **Stop Words**: Common words removed to focus on important terms
+- **Document Term Matrix (DTM)**: Matrix representation of text corpus
+
+
+## Data & Preprocessing
+
+- Data is the solution. In ML, quality & quantity matter
+- **Splicing**: Dividing data into training and testing sets
+- Discrete vs Continuous variables in data
+- Python examples were used for sentiment analysis
+
+
+## Reflection
+
+This video gave me a big-picture view of the AI field. Understanding the relationships between AI, ML, and DL, plus diving into neural networks, CNNs, RNNs, and NLP.
+
